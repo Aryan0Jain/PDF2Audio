@@ -1,4 +1,4 @@
-# Script Title
+# PDF2Audio
 A small python program that creates an audiobook
 
 ### Description
